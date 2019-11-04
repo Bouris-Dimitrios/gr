@@ -1,8 +1,8 @@
 ---
 author: std133533
-title: "Ivan Evan Edward"
+title: "Ivan Edward Sutherland"
 image_url: /images/alan-kay.jpg
-caption: "Ο Ivan Edward Δημιούργησε το πρόγραμμα Sketchpad το οποίο έθεσε τα θεμέλια για την δημιουργία γραφικών διεπαφών για το μέλλον"
+caption: "Ο Ivan Sutherland Δημιούργησε το πρόγραμμα Sketchpad το οποίο έθεσε τα θεμέλια για την δημιουργία γραφικών διεπαφών για το μέλλον"
 categories:
   - biography
   - definition
