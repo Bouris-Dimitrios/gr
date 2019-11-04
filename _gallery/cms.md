@@ -8,7 +8,7 @@ license_text: Pixabay License- Free for commercial use
 categories:
   - archetypes
 tags:
-  - e-commerce
+  - ecommerce
   -internet
   -www
 ---
