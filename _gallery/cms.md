@@ -7,8 +7,4 @@ license_url: 'https://pixabay.com/illustrations/content-management-cms-4308363/'
 license_text: Pixabay License- Free for commercial use
 categories:
   - archetypes
-tags:
-  - ecommerce
-  -internet
-  -www
 ---
