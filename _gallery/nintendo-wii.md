@@ -7,6 +7,7 @@ caption: 'To nintendo wii αποτελεί μια κονσόλα βιντεο π
 και ένα μικρό joystic σε συνδιασμό με αισθητήρες κίνησης και δίνει την δυνατότητα στον παίκτη να κάνει κινήσεις σε πραγματικό χρόνο τις 
 οποίες η κονσόλα αντιλαμβάνεται. Με αυτό τον τρόπο εδω και χρόνια το wii έδωσε 3D διαστάσεις στον χώρο του video-gaming'
 license_text:  Wikimedia Commons - freely licensed media file repository.'
+license_url: https://commons.wikimedia.org/wiki/File:Wii_console.png
 categories:
   - devices
   - consoles
