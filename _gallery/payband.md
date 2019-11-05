@@ -7,7 +7,9 @@ license_url: 'https://commons.wikimedia.org/wiki/File:9_-_euro_bank_notes_hidden
 license_text: Wikimedia Commons - royalty free, without copyright, public domain photo
 categories:
   - devices
+  - smart
 tags:
   - payments
   - bussiness
+  - wearable
 ---
